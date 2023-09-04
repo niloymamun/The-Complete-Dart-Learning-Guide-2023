@@ -1,3 +1,4 @@
+// Learn all the Methods from google and youtube
 void main() {
   var name = "Mamun";
   print('name.isEmpty=${name.isEmpty}');
@@ -17,3 +18,17 @@ void main() {
   print('text=${v2.replaceAll("#", '').trim()}');
   print(v2.trim());
 }
+/*
+**Program output** 
+name.toLowerCase=mamun
+name.toUpperCase=MAMUN
+name.contains=true
+name.replaceRange=NiloyMamun
+name.replaceFirstMdamun
+name.replaceAll=MALmun
+text.split=[      A, L, M, A, M, U, N]
+text.join=      A#L#M#A#M#U#N
+text=ALMAMUN
+A#L#M#A#M#U#N
+
+*/
