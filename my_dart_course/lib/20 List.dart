@@ -28,7 +28,5 @@ void main() {
 [1, 4, 5, 6, 7, 8, 9]
    */
   
-  // Dart Common Used Methods 
-  list1.add(20);
   
 }
