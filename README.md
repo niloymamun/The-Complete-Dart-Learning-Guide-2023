@@ -28,12 +28,17 @@
 18. Lists
 19. 2D Lists
 20. Sets
-21. Maps </br>
+21. Maps
+### Section 3: Functions.
+3.1. No agruments and no return type </br>
+3.2. No agruments with return type</br>
+3.3. With arguments and no return type</br>
+3.4. With arguments and with return type </br> 
 
 
 - Upcoming List 
    ```
-   Section 3: Functions.
+   
    Section 4: Object Oriented Programming [oop].
    Section 5: Asynchronus Programming.
    Section 6: The End 
