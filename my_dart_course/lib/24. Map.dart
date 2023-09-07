@@ -19,6 +19,7 @@ void main() {
     6: 'c',
     7: 'd',
   };
+  print(y);
   // Print normal away
   print(mymap);
   // Print ForEach loop
