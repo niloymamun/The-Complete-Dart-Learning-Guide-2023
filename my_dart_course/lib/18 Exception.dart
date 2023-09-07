@@ -18,12 +18,8 @@ void main() {
       break;
     } on FormatException {
       print('Invalid Number ');
-
-    }catch (value) {
+    } catch (value) {
       print("Error $value");
     }
   }
-  }
-  }
-}
 }
