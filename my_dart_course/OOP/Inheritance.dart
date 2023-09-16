@@ -103,3 +103,22 @@ class Principal extends Human {
     print('Desigranation: $desigranation');
   }
 }
+/*
+output
+Name is: Mamun
+Age is: 25
+Status is:Student
+-----------
+The parrot can speak
+The bird can fly
+The eagle has a sharp vision
+-----------
+Name is: Niloy
+Age is: 30
+Class Name: Nine
+-----------
+Name is: Mamun
+Age is: 25
+Desigranation: Teacher
+-----------
+*/
