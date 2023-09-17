@@ -18,34 +18,31 @@ abstract class ClassName {
  // Body of abstract class  
 }  
 
- */ 
-void main(){
+ */
+void main() {
   var boy = Boy();
   var girl = Girl();
   boy.display();
   girl.display();
-  
-  
 }
-// Create Abstruct Class and Methods
-abstract class Person{
+
+// Create Abstract Class and Methods
+abstract class Person {
   void display();
 }
 
-class Boy extends Person{
+class Boy extends Person {
   @override
-  display(){
+  display() {
     print("My Name is Mamun");
   }
-  
 }
 
-class Girl extends Person{
+class Girl extends Person {
   @override
-  display(){
+  display() {
     print("My Name is Nila");
   }
-  
 }
 
 /*output
