@@ -1,4 +1,4 @@
-Dart Constants
+/*Dart Constants
 Dart Constant is defined as an immutable object, which means it can't be changed or modified during the execution of the program. Once we initialize the value to the constant variable, it cannot be reassigned later.
 
 Defining/Initializing Constant in Dart
@@ -49,4 +49,4 @@ void main() {
 }  
 Output:
 
-Peter
+Peter*/
