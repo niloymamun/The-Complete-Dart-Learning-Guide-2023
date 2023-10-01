@@ -39,7 +39,7 @@
 - Upcoming List 
    ```
    
-   Section 4: Object Oriented Programming [oop].
+   Section 4: Object-Oriented Programming [oop].
    Section 5: Asynchronous Programming.
    Section 6: The End 
    
